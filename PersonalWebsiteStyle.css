@@ -1,6 +1,7 @@
 h1{
-    font-size: medium;
-    font-weight: bold;
-    color:  rgb(3, 7, 216);
-
+font-size: medium;font-weight: bold;}
+button{
+    font: 100;
+    color: aqua;
+    background-color: blueviolet;
 }
